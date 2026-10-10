@@ -17,3 +17,9 @@
 *.snm
 *.vrb
 **/build/
+
+# Python virtual environment (kept on disk, not tracked)
+venv/
+
+# Calendar export
+*.ics
